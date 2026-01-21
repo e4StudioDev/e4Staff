@@ -2,11 +2,11 @@
 <project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xmlns="http://maven.apache.org/POM/4.0.0"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-    <modelVersion>4.0.0</modelVersion>
+    <modelVersion>1.0.0</modelVersion>
     <groupId>net.shortninja.staffplus</groupId>
-    <name>Staff++</name>
-    <description>The ultimate moderation plugin.</description>
-    <version>1.21.18-SNAPSHOT</version>
+    <name>e4Staff</name>
+    <description>El mejor plugin de moderación creado por e4Studio.</description>
+    <version>1.21</version>
     <artifactId>staffplusplus-core</artifactId>
 
     <properties>
@@ -20,8 +20,8 @@
 
     <repositories>
         <repository>
-            <id>staffplusplus-repo</id>
-            <url>https://nexus.staffplusplus.org/repository/staffplusplus/</url>
+            <id>e4Staff</id>
+            <url>https://wiki.e4studio.dev/minecraft/e4staff</url>
         </repository>
     </repositories>
     <pluginRepositories>
