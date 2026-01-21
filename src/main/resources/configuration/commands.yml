@@ -7,7 +7,7 @@
 # All commands and their according names.
 # Leave a command blank to disable it.
 
-staffplus: ["staffplusplus"]
+staffplus: ["e4staff"]
 # The command for toggling staff mode.
 staff-mode: ["staff"]
 # The command for toggling fly while in staff mode.
@@ -208,4 +208,5 @@ chatchannels:
 staff-locations:
     create: ["create-stafflocation"]
     view: ["stafflocations"]
+
     teleport-to-stafflocation: [ "teleport-to-stafflocation" ]
