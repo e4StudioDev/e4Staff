@@ -1,7 +1,8 @@
 main: net.shortninja.staffplus.core.StaffPlusPlus
-name: StaffPlusPlus
+name: e4Staff
 version: ${project.version}
-description: The ultimate moderation plugin!
-author: Shortninja,Qball,Garagepoort
+description: El mejor plugin de moderación para tu servidor.
+author: e4vizz,e4Studio
 softdepend: [PacketListenerApi, PlaceholderAPI, LuckPerms, Vault, GroupManager, AuthMe, DiscordSRV]
+
 api-version: 1.13
