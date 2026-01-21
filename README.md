@@ -1,4 +1,4 @@
-# Staff++
+# e4Staff
 Originally created by Shortninja66. After Shortninja66's early passing, Qball continued maintaining and developing the plugin.
 
 Now after a while I stumbled upon it and its background. My goal is to add new functionalities and fix a lot of the open bugs, hopefully making this plugin very robust with many features useful for small and big servers.
@@ -55,3 +55,4 @@ For every spigot version we will create a new release. This means that you must 
 * Clone this repo
 * Run mvn clean package
 * Wait (if you have never ran BuildTools before it will take a while future builds will be faster)
+
